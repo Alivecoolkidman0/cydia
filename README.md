@@ -128,13 +128,13 @@ You can add the depictions url at the end of your package's `control` file befor
 The depiction line should look like this:
 
 ```text
-Depiction: https://username.github.io/repo/depictions/?p=[idhere]
+Depiction: https://github.com/Alivecoolkidman0/cydia/tree/master/depictions/com.iOSGods.iAPCraker
 ```
 
 Replace `[idhere]` with your actual package name.
 
 ```text
-Depiction: https://username.github.io/repo/depictions/?p=com.supermamon.oldpackage
+Depiction: https://alivecoolkidman0.github.io/cydia/depictions/?p=com.iOSGods.iAPCraker
 ```
 
 #### 3. Rebuilding the `Packages` file
